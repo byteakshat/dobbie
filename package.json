@@ -1,0 +1,17 @@
+{
+  "name": "akszt-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@androz2091/insta.js": "^1.5.2",
+    "alexa-bot-api": "^0.2.1",
+    "node-fetch": "^2.6.1"
+  }
+}
