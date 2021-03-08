@@ -1,6 +1,6 @@
 # alexa-instagram-chat-bot
 
-# INSTALL [INSTA.JS]
+# INSTALL [Insta.js](https://npmjs.com/@androz2091/insta.js)
 
 # Description of Insta.js
 
