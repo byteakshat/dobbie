@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Akshat Mehta",
   "license": "ISC",
   "dependencies": {
     "@androz2091/insta.js": "^1.5.2",
