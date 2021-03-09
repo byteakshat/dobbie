@@ -17,4 +17,4 @@ client.on("messageCreate", async message => {
           chatbot.getReply(content).then(r => message.reply(r));
             });
 
-client.login('medobbie', 'sepcco74'); 
+client.login('medobbie', 'dobbie@123'); 
