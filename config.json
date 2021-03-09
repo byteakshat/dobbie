@@ -32,7 +32,7 @@ class Client extends EventEmitter {
         this.user = null
         /**
          * @type {?IgApiClient}
-         * @private
+         * @private 
          */
         this.ig = null
         /**
