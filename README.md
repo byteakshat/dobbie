@@ -52,3 +52,25 @@ client.login('username', 'password');
 ## Credits
 
 🧡 Big thanks to **[Nerixyz](https://github.com/Nerixyz)** and **[dilame](https://github.com/dilame)** for their libraries.
+
+<BR>
+    # Security Policy
+
+## Supported Versions
+
+    
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
+
+## Reporting a Vulnerability
+
+Report it **[Here](https://dobbie.ml)** 
+
+<marquee>
+    Dobbie
+    </marquee>
+    </br>
