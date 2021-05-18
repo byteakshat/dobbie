@@ -68,7 +68,7 @@ client.login('username', 'password');
 
 ## Reporting a Vulnerability
 
-Report it **[Here](https://dobbie.ml)** 
+Report it **[Here](http://dobbie.ml)** 
 
 <marquee>
     Dobbie
