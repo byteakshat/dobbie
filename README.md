@@ -53,8 +53,8 @@ client.login('username', 'password');
 
 🧡 Big thanks to **[Nerixyz](https://github.com/Nerixyz)** and **[dilame](https://github.com/dilame)** for their libraries.
 
-<BR>
-    # Security Policy
+
+ # Security Policy
 
 ## Supported Versions
 
